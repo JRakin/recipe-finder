@@ -24,7 +24,7 @@
     "axios": "^0.19.1",
     "babel-polyfill": "^6.26.0",
     "fractional": "^1.0.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "uniqid": "^5.2.0"
   }
 }
